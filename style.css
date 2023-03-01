@@ -1,0 +1,29 @@
+ .navbar{
+    display: flex;
+    
+    list-style: none;
+ }
+ .navbar > li > a {
+    text-decoration: none;
+    color: black;
+    
+ }
+.first_div{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,170,244,1) 7%, rgba(94,0,255,1) 100%);
+    padding: 4rem;
+}
+
+.second_div{
+    margin-top: 6rem;
+}
+
+.all_card{
+    display: flex;
+}
+#btt{
+    text-decoration: none;
+}
+.f_para{
+    margin-left: 2rem;
+}
